@@ -1,0 +1,10 @@
+{
+	"indentation": {
+		"preferTabs": true,
+		"size": 4
+	},
+	"inFolder": "./demo/in",
+	"outFolder": "./demo/out",
+
+	"fileExtension": "pyb"
+}
