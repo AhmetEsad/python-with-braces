@@ -1,3 +1,11 @@
-export default function(config: { [_: string]: (number | string | boolean) }) {
+type Config = {
+	preferTabs: boolean,
+	indentationSize: number,
+	inFolder: string,
+	outFolder: string,
+	fileExtension: string
+}
+
+export default function (config: Config) {
 
 }
