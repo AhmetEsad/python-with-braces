@@ -1,0 +1,11 @@
+def a(v): {
+print(v)
+}
+
+variable = True
+
+if variable: {
+a("True")
+} else: {
+a("False")
+}
