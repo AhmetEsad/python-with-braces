@@ -24,9 +24,6 @@ export function processFile(content: string, line_separator: string, tab_char: s
 
 	let token = '';
 
-	let in_if = false;
-	let in_def = false;
-
 	let in_singleq_string = false;
 	let in_doubleq_string = false;
 	let in_tripleq_string = false; // TODO add """/''' support
