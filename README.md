@@ -7,7 +7,9 @@ disclaimer
 
 how to use
 - bun index.ts (...args)
+\
 example: bun index.ts --outFolder "./demo/out"
+
 see pybconfig.json for default values (you can edit those but the ones provided from the CLI will be prioritized)
 
 oh and no github copilot / AI was used except for that one time i asked chatgpt where curly brackets are used in python
