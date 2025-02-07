@@ -7,7 +7,6 @@ type Config = {
 	lineSeparator: string
 }
 
-import { INSPECT_MAX_BYTES } from 'buffer';
 import fs from 'fs';
 import path from 'path';
 
